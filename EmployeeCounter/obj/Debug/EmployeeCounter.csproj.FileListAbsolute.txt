@@ -1,0 +1,22 @@
+D:\Program Files\visual-studio-workspace\EmployeeCounter\bin\Debug\EployeesCounter.accdb
+D:\Program Files\visual-studio-workspace\EmployeeCounter\bin\Debug\EmployeeCounter.exe.config
+D:\Program Files\visual-studio-workspace\EmployeeCounter\bin\Debug\EmployeeCounter.exe
+D:\Program Files\visual-studio-workspace\EmployeeCounter\bin\Debug\EmployeeCounter.pdb
+D:\Program Files\visual-studio-workspace\EmployeeCounter\obj\Debug\EmployeeCounter.Form1.resources
+D:\Program Files\visual-studio-workspace\EmployeeCounter\obj\Debug\EmployeeCounter.Properties.Resources.resources
+D:\Program Files\visual-studio-workspace\EmployeeCounter\obj\Debug\EmployeeCounter.csproj.GenerateResource.cache
+D:\Program Files\visual-studio-workspace\EmployeeCounter\obj\Debug\EmployeeCounter.csproj.CoreCompileInputs.cache
+D:\Program Files\visual-studio-workspace\EmployeeCounter\obj\Debug\EmployeeCounter.exe
+D:\Program Files\visual-studio-workspace\EmployeeCounter\obj\Debug\EmployeeCounter.pdb
+D:\Program Files\visual-studio-workspace\EmployeeCounter\obj\Debug\EmployeeCounter.csprojAssemblyReference.cache
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\bin\Debug\EployeesCounter.accdb
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\bin\Debug\EmployeeCounter.exe.config
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\bin\Debug\EmployeeCounter.exe
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\bin\Debug\EmployeeCounter.pdb
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\Debug\EmployeeCounter.csproj.AssemblyReference.cache
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\Debug\EmployeeCounter.Form1.resources
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\Debug\EmployeeCounter.Properties.Resources.resources
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\Debug\EmployeeCounter.csproj.GenerateResource.cache
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\Debug\EmployeeCounter.csproj.CoreCompileInputs.cache
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\Debug\EmployeeCounter.exe
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\Debug\EmployeeCounter.pdb

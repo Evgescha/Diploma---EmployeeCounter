@@ -1,0 +1,11 @@
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\bin\x64\Debug\EployeesCounter.accdb
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\bin\x64\Debug\EmployeeCounter.exe.config
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\bin\x64\Debug\EmployeeCounter.exe
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\bin\x64\Debug\EmployeeCounter.pdb
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\x64\Debug\EmployeeCounter.csproj.AssemblyReference.cache
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\x64\Debug\EmployeeCounter.Form1.resources
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\x64\Debug\EmployeeCounter.Properties.Resources.resources
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\x64\Debug\EmployeeCounter.csproj.GenerateResource.cache
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\x64\Debug\EmployeeCounter.csproj.CoreCompileInputs.cache
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\x64\Debug\EmployeeCounter.exe
+C:\Users\Frieren\Downloads\EmployeeCounter\EmployeeCounter\obj\x64\Debug\EmployeeCounter.pdb
